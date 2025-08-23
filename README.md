@@ -59,4 +59,4 @@ Reach me via **email**: `dmcnczy@163.com`
 ---
 
 ## ⚡ Fun Fact
-> "Code speaks louder than words — but clean code speaks best."
+> "I taught AI to lie in Avalon. Now I can’t trust it anymore."
