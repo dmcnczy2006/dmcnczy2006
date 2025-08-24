@@ -25,7 +25,7 @@ A next-gen online **Avalon AI battle platform**, blending **classic social deduc
 - Secure, scalable, and modular architecture  
 
 **Tech Stack:**  
-Python (Flask, SQLAlchemy) · HTML/Bootstrap · JavaScript · SQLite · OpenAI API
+Python (Flask, SQLAlchemy) · HTML/Bootstrap · JavaScript · OpenAI API
 
 ### 🌐 [dmcnczy2006.github.io](https://github.com/dmcnczy2006/dmcnczy2006.github.io)
 My personal site — a playground for design, experiments, and showcasing my works.
