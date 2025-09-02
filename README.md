@@ -34,7 +34,7 @@ My personal site — a playground for design, experiments, and showcasing my wor
 
 ## 🛠️ Tech Toolbox
 - **Languages:** <span style="color: blue">Python</span>, C++, R, HTML, CSS, JavaScript
-- **Frameworks:** Flask, Bootstrap, FastAPI
+- **Frameworks:** Flask, Bootstrap, FastAPI, Vue.js
 - **Databases:** SQLite, SQLAlchemy
 - **AI & LLM:** OpenAI API, custom AI agents
 - **Other:** Git
