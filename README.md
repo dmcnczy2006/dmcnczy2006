@@ -8,7 +8,7 @@
 - 🎓 Student at **College of Environmental Sciences and Engineering, Peking University**
 - 🛠️ Interests: **Python Utilities**, **AI/LLM Applications**, and **AI4S**
 - 🌱 Currently exploring **LLM-powered game platforms** and **applying AI into environmental sciences and engineering**
-  - In particular, *atmospheric envinronmental physics and chemistry, atmosphecir environmental monitoring, aerosols*
+  - In particular, *atmospheric envinronmental physics and chemistry, atmospheric environmental monitoring, aerosols*
 
 ---
 
