@@ -1,6 +1,6 @@
 # 👋 Hi, I'm @dmcnczy2006
 
-🌍 Born in Wenzhou, China | 💻 Amateur Developer & Student | 🧪 Member of [PKU LAB409](https://github.com/pkulab409)  
+🌍 Born in Wenzhou, China | 💻 Amateur Developer & Environmental Sciences Student | 🧪 Member of [PKU LAB409](https://github.com/pkulab409)  
 
 ---
 
@@ -34,28 +34,26 @@ My personal site — a playground for design, experiments, and showcasing my wor
 ---
 
 ## 🛠️ Tech Toolbox
-- **Languages:** <span style="color: blue">Python</span>, C++, R, HTML, CSS, JavaScript
-- **Frameworks:** Flask, Bootstrap, FastAPI, Vue.js
+- **Languages:** Python</span, C++, R, HTML, CSS, JS/TS
+- **Frameworks:** Flask, Bootstrap, FastAPI, Vue.js, uni-app
 - **Databases:** SQLite, SQLAlchemy
-- **AI & LLM:** OpenAI API, custom AI agents
-- **Other:** Git
+- **ML & AI & LLM:** Regression / classification models, OpenAI API, custom AI agents
+- **Other:** Git, LaTeX
 
 ---
 
 ## 📈 Current Focus
 - Expanding **Tuvalon** with new features & better AI safety
-- Exploring **frontend frameworks** like Vue and React
-- Discovering **AI** for environmental sciences
+- Discovering **AI** for (environmental) sciences (like **PIML, Symbolic Regression, Quantom ML**)
 
 ---
 
 ## 🤝 Let’s Collaborate!
 I'm open to:
 - 💡 Interesting **AI/LLM experiments**
-- 🎮 **Game logic** or **interactive platform** development
 - 🔧 Tools that make life easier
 
-Reach me via **email**: `dmcnczy@163.com`
+Reach me via **email**: [dmcnczy@163.com](mailto:dmcnczy@163.com)
 
 ---
 
