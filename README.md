@@ -44,7 +44,7 @@ My personal site — a playground for design, experiments, and showcasing my wor
 
 ## 📈 Current Focus
 - Expanding **Tuvalon** with new features & better AI safety
-- Discovering **AI** for (environmental) sciences (like **PIML, Symbolic Regression, Quantom ML**)
+- Discovering **AI** for (environmental) sciences (like **PIML, Symbolic Regression**)
 
 ---
 
