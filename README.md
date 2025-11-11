@@ -34,7 +34,7 @@ My personal site — a playground for design, experiments, and showcasing my wor
 ---
 
 ## 🛠️ Tech Toolbox
-- **Languages:** Python</span, C++, R, HTML, CSS, JS/TS
+- **Languages:** **Python**, C++, R, HTML, CSS, JS/TS
 - **Frameworks:** Flask, Bootstrap, FastAPI, Vue.js, uni-app
 - **Databases:** SQLite, SQLAlchemy
 - **ML & AI & LLM:** Regression / classification models, OpenAI API, custom AI agents
