@@ -28,6 +28,30 @@ A next-gen online **Avalon AI battle platform**, blending **classic social deduc
 **Tech Stack:**  
 Python (Flask, SQLAlchemy) · HTML/Bootstrap · JavaScript · OpenAI API
 
+### 🤖 Word Formatting Agent *(NEW)*
+> Automating one of the most painful parts of academic writing.
+
+An **AI-powered document formatting agent** that converts messy drafts into **clean, standardized Word documents**.
+
+**Highlights:**
+- 📄 Automatically formats headings, fonts, spacing, and layout  
+- 📑 Fixes inconsistent styles across the document  
+- 🎯 Adapts to **academic / report formatting requirements**  
+- 🧠 Structure-aware (abstract, sections, figures, tables)  
+- ⚡ Saves massive manual formatting time  
+
+**Tech Stack:**  
+Python · python-docx · LLM APIs · rule-based + AI hybrid pipeline  
+
+**Motivation:**  
+Academic formatting is repetitive, error-prone, and time-consuming.  
+This project focuses on **AI for real productivity**, not just demos.
+
+**Future:**
+- LaTeX → Word conversion  
+- GUI / plugin integration (Office / Overleaf)  
+- Custom template system  
+
 ### 🌐 [dmcnczy2006.github.io](https://github.com/dmcnczy2006/dmcnczy2006.github.io)
 My personal site — a playground for design, experiments, and showcasing my works.
 
