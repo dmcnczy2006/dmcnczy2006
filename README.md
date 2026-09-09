@@ -82,4 +82,7 @@ Reach me via **email**: [dmcnczy@163.com](mailto:dmcnczy@163.com)
 ---
 
 ## ⚡ Fun Fact
+
 > "I taught AI to lie in Avalon. Now I can’t trust it anymore."
+
+And I am an ![osu!](https://osu.ppy.sh)mania player.
